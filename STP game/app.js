@@ -64,5 +64,6 @@ choices.forEach((choice) => {
         const userchoice = choice.getAttribute("id");
         playGame(userchoice);
 
+        
     });
 });
